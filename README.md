@@ -1,4 +1,4 @@
-# 🏛 aprilla Family Bookstore
+# 🏛 @aprilla Family Bookstore
 
 ## Available Scripts
 
