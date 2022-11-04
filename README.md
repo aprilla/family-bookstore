@@ -1,7 +1,5 @@
 # 🏛 Leonard Family Bookstore
 
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://github.com/aprilla/family-bookstore)
-
 ## Available Scripts
 
 In the project directory, you can run:
