@@ -1,4 +1,4 @@
-# 🏛 Leonard Family Bookstore
+# 🏛 aprilla Family Bookstore
 
 ## Available Scripts
 
